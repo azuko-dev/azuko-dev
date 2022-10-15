@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do azuko-dev (Brenner Amaral)👾
+## Bem-vindo(a) ao perfil do azuko-dev (Brenner Amaral) 🧙
 
  <div>
    <a href="https://github.com/azuko-dev">
