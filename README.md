@@ -1,6 +1,3 @@
-## Bem-vindo(a)
-
-
 <h1> Estudos🌟 </h1>
 
 <div style="display: inline_block"><br>
