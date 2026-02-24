@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do azuko-dev (Brenner Amaral) 🧙
+## Bem-vindo(a)
 
 
 <h1> Estudos🌟 </h1>
